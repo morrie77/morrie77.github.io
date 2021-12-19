@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               대한민국 교통정보 - 시간표 및 요금
+url:                 https://morrie77.github.io
 baseurl:             ""
 
 markdown:            kramdown
@@ -8,7 +8,7 @@ highlighter:         rouge
 exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
 
 permalink:           pretty
-paginate:            5
+paginate:            5https://github.com/morrie77/morrie77.github.io/blob/master/_config.yml
 paginate_path:       /blog/:num
 
 blog:
